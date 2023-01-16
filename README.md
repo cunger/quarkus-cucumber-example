@@ -1,4 +1,4 @@
-# Operational Coordination Platform
+# Example for acceptance testing with quarkus-cucumber
 
 Build with `mvn clean package`.
 
