@@ -1,5 +1,5 @@
 # Example for acceptance testing with quarkus-cucumber
 
-Build with `mvn clean package`.
+Test with `mvn test`.
 
-Start a running dev version with `./mvnw quarkus:dev`.
+Build with `mvn clean package`.
